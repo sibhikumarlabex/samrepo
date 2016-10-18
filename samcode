@@ -1,0 +1,5 @@
+git clone url
+cd repo
+git status
+git add
+git commit
